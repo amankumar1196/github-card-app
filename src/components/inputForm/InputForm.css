@@ -1,0 +1,19 @@
+.input {
+  height: 1.5rem;
+  margin-right: 0.5rem;
+}
+
+.input:focus {
+  color: #495057;
+  background-color: #fff;
+  border-color: #80bdff;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgb(0 123 255 / 25%);
+}
+
+.add-button {
+  height: 1.75rem;
+  color: #fff;
+  background-color: #007bff;
+  border-radius: 0.25rem;
+}

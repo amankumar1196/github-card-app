@@ -1,0 +1,14 @@
+.d-flex {
+  display: flex;
+}
+.align-items-center {
+  align-items: center;
+}
+
+.d-none {
+  display: none;
+}
+
+.active {
+  color: rgb(82, 136, 206);
+}
