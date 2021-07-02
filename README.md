@@ -1,4 +1,4 @@
-Step 1: Clone app from [url]()
+Step 1: Clone app from github using commad: git clone https://github.com/amankumar1196/github-card-app.git
 
 Step 2: yarn install
 
